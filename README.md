@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQG-XZREcSNeqg/profile-displaybackgroundimage-shrink_350_1400/0/1672927834063?e=1681344000&v=beta&t=xLWJdR2emVVC1xGY4StLP9IbGjPBI-mCbz2pci2NBfs)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQG-XZREcSNeqg/profile-displaybackgroundimage-shrink_350_1400/0/1672927834063?e=1681344000&v=beta&t=xLWJdR2emVVC1xGY4StLP9IbGjPBI-mCbz2pci2NBfs)
 <h1 align="center">Hi 👋, I'm SRINIDHARAN S</h1>
 <h3 align="center"> Student/Designer</h3>
 
