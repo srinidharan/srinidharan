@@ -1,17 +1,10 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQG-XZREcSNeqg/profile-displaybackgroundimage-shrink_350_1400/0/1672927834063?e=1681344000&v=beta&t=xLWJdR2emVVC1xGY4StLP9IbGjPBI-mCbz2pci2NBfs)
+
 <h1 align="center">Hi 👋, I'm SRINIDHARAN S</h1>
 <h3 align="center"> Student/Designer</h3>
 
+- 🔭 I’m currently working on **Portfolio Website**.
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinidharan&label=Profile%20views&color=0e75b6&style=flat" alt="srinidharan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/srinidharan" target="blank"><img src="https://img.shields.io/twitter/follow/srinidharan?logo=twitter&style=for-the-badge" alt="srinidharan" /></a> </p>
-
-- 🔭 I’m currently working on **Portfolio Website**
-
-- 🌱 I’m currently learning **Adobe After Effects,Blender**
+- 🌱 I’m currently learning **Adobe After Effects,Blender**.
 
 - 📫 How to reach me **srinidharan2001@gmail.com**
 
@@ -27,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinidharan&show_icons=true&locale=en&layout=compact" alt="srinidharan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinidharan&show_icons=true&locale=en" alt="srinidharan" /></p>
+
 
 
 
