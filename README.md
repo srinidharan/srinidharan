@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SRINIDHARAN S</h1>
 <h3 align="center"> Student/Designer</h3>
 
-- 🔭 I’m currently working on [**Portfolio Website**.](srinidharan.vercel.app)
+- 🔭 I’m currently working on [**Portfolio Website**.](https://srinidharan.vercel.app/)
 
 - 🌱 I’m currently learning **Adobe After Effects,Blender**.
 
